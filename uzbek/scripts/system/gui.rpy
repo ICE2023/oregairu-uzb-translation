@@ -1,0 +1,21 @@
+translate uzbek python:
+    gui.text_font = "fonts/LXGWWenKaiScreenR.ttf"
+    gui.name_text_font = "fonts/FZCuYSJ.ttf"
+    gui.interface_text_font = "fonts/HDSLSSXT.ttf"
+    gui.ui_text_font = "fonts/FZCuYSJ.ttf"
+    gui.www_font = "fonts/LXGWWenKaiScreenR.ttf"
+    gui.www_text_size = 35
+    gui.text_size = 40
+    gui.name_text_size = 38
+    gui.interface_text_size_big = 50
+    gui.interface_text_size = 40
+    gui.interface_text_size1 = 40
+    gui.interface_text_size2 = 35
+    gui.interface_text_size2_5 = 35
+    gui.interface_text_size3 = 30
+    gui.interface_text_size_smallest = 35
+    gui.label_text_size = 60
+    gui.notify_text_size = 45
+    gui.title_text_size = 50
+    gui.is_vertical_text = False
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
