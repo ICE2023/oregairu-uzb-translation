@@ -218,7 +218,7 @@ translate uzbek OG_N099ED20_0_66ac5a9c:
 translate uzbek OG_N099ED20_0_f21e3a71:
 
     # voice "audio/log/N099ED20_ZAI012.ogg"
-    # zai "「貴様いつからそのような腑抜けになった。昔の<prompt>滾<upperText>たぎ</prompt>りを思い出せ八幡、我の溢れる才能の迸りを聞け」"
+    # zai "「貴様いつからそのような腑抜けになった。昔の滾たぎりを思い出せ八幡、我の溢れる才能の迸りを聞け」"
     voice "audio/log/N099ED20_ZAI012.ogg"
     zai "「Qachondan beri shunchalik bo‘shashib qolding? Qadimgi jo‘shqinligingni esla, Hachiman. Mening iste’dodimni tingla.」"
 
@@ -226,7 +226,7 @@ translate uzbek OG_N099ED20_0_f21e3a71:
 translate uzbek OG_N099ED20_0_8b94e43a:
 
     # voice "audio/log/N099ED20_HCM014.ogg"
-    # hcm "「腑抜けでいいし<prompt>滾<upperText>たぎ</prompt>った記憶はないしお前の迸りなんぞは聞きたくない」"
+    # hcm "「腑抜けでいいし滾たぎった記憶はないしお前の迸りなんぞは聞きたくない」"
     voice "audio/log/N099ED20_HCM014.ogg"
     hcm "「Bo‘shashganim ma’qul, jo‘shqinlikni eslolmayman, sening iste’dodingni eshitishni xohlamayman.」"
 
@@ -356,9 +356,9 @@ translate uzbek OG_N099ED20_0_d6f88ba0:
 translate uzbek OG_N099ED20_0_178081cc:
 
     # voice "audio/log/N099ED20_ZAI020.ogg"
-    # zai "「……迷い込んだ異次元の果てに、突如『魔王の森』が出現する。そこでブライトは生涯の<prompt>強敵<upperText>とも</prompt>ヒキガー・エルー・エイトテンサウザンツと会う」"
+    # zai "「……迷い込んだ異次元の果てに、突如『魔王の森』が出現する。そこでブライトは生涯の強敵ともヒキガー・エルー・エイトテンサウザンツと会う」"
     voice "audio/log/N099ED20_ZAI020.ogg"
-    zai "「...O‘zga olamning chekkasida to‘satdan “Iblis o‘rmoni” paydo bo‘ladi. U yerda Bright o‘zining azaliy <prompt>raqibi<upperText>do‘sti</prompt> Hikiga Eru Eight-Ten-Thousands bilan uchrashadi.」"
+    zai "「...O‘zga olamning chekkasida to‘satdan “Iblis o‘rmoni” paydo bo‘ladi. U yerda Bright o‘zining azaliy raqibido‘sti Hikiga Eru Eight-Ten-Thousands bilan uchrashadi.」"
 
 # game/scripts/game/OG_N099ED20.rpy:328
 translate uzbek OG_N099ED20_0_ec14aebe:

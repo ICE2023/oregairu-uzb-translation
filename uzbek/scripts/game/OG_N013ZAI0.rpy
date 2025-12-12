@@ -125,8 +125,8 @@ translate uzbek OG_N013ZAI0_0_22a6598a:
 # game/scripts/game/OG_N013ZAI0.rpy:109
 translate uzbek OG_N013ZAI0_1_fba31492:
 
-    # hcm "（だいたい、<prompt>材木座<upperText>ざいもくざ</prompt><prompt>義輝<upperText>よしてる</prompt>なんて名前からして面倒くさい。しかも中二病を派手にこじらせたイタイ性格で、当然学校ではぼっちを貫いていて）"
-    hcm "(O'zi, <prompt>Zaimokuza<upperText>Zaimokuza</prompt> <prompt>Yoshiteru<upperText>Yoshiteru</prompt> ismining o'zi g'alati. Ustiga-ustak, o'ta og'ir darajadagi 'Chuunibyou' (O'smirlik xayolparastligi) kasaliga chalingan, albatta maktabda ham yolg'iz yuradi)"
+    # hcm "（だいたい、材木座ざいもくざ義輝よしてるなんて名前からして面倒くさい。しかも中二病を派手にこじらせたイタイ性格で、当然学校ではぼっちを貫いていて）"
+    hcm "(O'zi, Zaimokuza Yoshiteru ismining o'zi g'alati. Ustiga-ustak, o'ta og'ir darajadagi 'Chuunibyou' (O'smirlik xayolparastligi) kasaliga chalingan, albatta maktabda ham yolg'iz yuradi)"
 
 # game/scripts/game/OG_N013ZAI0.rpy:111
 translate uzbek OG_N013ZAI0_1_ef9cd5ce:

@@ -20,7 +20,7 @@ translate uzbek OG_A062ESS1_0_eb47fb1c:
     # voice "audio/log/A062ESS1_YUK001.ogg"
     # yuk "「……ふぅ」"
     voice "audio/log/A062ESS1_YUK001.ogg"
-    yuk "「...Uf-f.」"
+    yuk "「....Uf-f.」"
 
 # game/scripts/game/OG_A062ESS1.rpy:34
 translate uzbek OG_A062ESS1_0_f4d3ea94:

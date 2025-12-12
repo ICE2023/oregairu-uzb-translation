@@ -242,9 +242,9 @@ translate uzbek OG_N037ESS0_2_5b865014:
 translate uzbek OG_N037ESS0_2_69b2d444:
 
     # voice "audio/log/N037ESS0_HAY015.ogg"
-    # hay "「<prompt><charCenter>比企谷くん<upperText>•••••</prompt>とは、仲良くできなかったろうな」"
+    # hay "「比企谷くん•••••とは、仲良くできなかったろうな」"
     voice "audio/log/N037ESS0_HAY015.ogg"
-    hay "「<prompt><charCenter>Hikitani-kun<upperText>•••••</prompt> bilan inoq bo‘lolmasdim.」"
+    hay "「Hikitani-kun••••• bilan inoq bo‘lolmasdim.」"
 
 # game/scripts/game/OG_N037ESS0.rpy:237
 translate uzbek OG_N037ESS0_2_37231316:

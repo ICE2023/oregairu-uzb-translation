@@ -43,8 +43,8 @@ translate uzbek OG_N013YUI0_0_435ad374:
 # game/scripts/game/OG_N013YUI0.rpy:53
 translate uzbek OG_N013YUI0_1_b1b5f080:
 
-    # hcm "（<prompt>由比ケ浜<upperText>ゆいがはま</prompt><prompt>結衣<upperText>ゆい</upperText>。まぁ、そうだな、俺のクラスメイトでアホで、同じ奉仕部の部員でアホの子だ）"
-    hcm "(<prompt>Yuigahama<upperText>Yuigahama</prompt> <prompt>Yui<upperText>Yui</upperText>. Xo'sh, nima desam ekan, sinfdoshim, sodda, Volontyorlik klubining a'zosi va ancha sodda qiz.)"
+    # hcm "（由比ケ浜ゆいがはま結衣ゆい。まぁ、そうだな、俺のクラスメイトでアホで、同じ奉仕部の部員でアホの子だ）"
+    hcm "(Yuigahama Yui. Xo'sh, nima desam ekan, sinfdoshim, sodda, Volontyorlik klubining a'zosi va ancha sodda qiz.)"
 
 # game/scripts/game/OG_N013YUI0.rpy:55
 translate uzbek OG_N013YUI0_1_860d857d:
@@ -189,14 +189,14 @@ translate uzbek OG_N013YUI0_4_7463c350:
 # game/scripts/game/OG_N013YUI0.rpy:186
 translate uzbek OG_N013YUI0_4_06f4d002:
 
-    # hcm "（<prompt>三浦<upperText>みうら</prompt><prompt>優美子<upperText>ゆみこ</prompt>は、横暴を絵に描いたようなスクールカーストの女王様で、ウチのクラスでこいつに勝てるのは葉山くらいか。葉山のことは……まぁ、今はいいだろ）"
-    hcm "(<prompt>Miura<upperText>Miura</prompt> <prompt>Yumiko<upperText>Yumiko</prompt> — maktab ierarxiyasining zolim malikasi, sinfimizda unga teng keladigan faqat Hayama bo'lsa kerak. Hayama haqida... mayli, hozir shart emas.)"
+    # hcm "（三浦みうら優美子ゆみこは、横暴を絵に描いたようなスクールカーストの女王様で、ウチのクラスでこいつに勝てるのは葉山くらいか。葉山のことは……まぁ、今はいいだろ）"
+    hcm "(Miura Yumiko — maktab ierarxiyasining zolim malikasi, sinfimizda unga teng keladigan faqat Hayama bo'lsa kerak. Hayama haqida... mayli, hozir shart emas.)"
 
 # game/scripts/game/OG_N013YUI0.rpy:188
 translate uzbek OG_N013YUI0_4_4c6f7709:
 
-    # hcm "（で、三浦の取り巻きのひとり<prompt>海老名<upperText>えびな</prompt><prompt>姫菜<upperText>ひな</prompt>、なんだけど……その清楚な擬態をパージすると、男子同士のカラミに目がないらしい……正直、怖いです）"
-    hcm "(Keyin, Miuraning dugonasi <prompt>Ebina<upperText>Ebina</prompt> <prompt>Hina<upperText>Hina</prompt>... u o'zini odobli ko'rsatsa-da, aslida yigitlar o'rtasidagi munosabatlarga o'ch ekan... Rostini aytsam, qo'rqinchli.)"
+    # hcm "（で、三浦の取り巻きのひとり海老名えびな姫菜ひな、なんだけど……その清楚な擬態をパージすると、男子同士のカラミに目がないらしい……正直、怖いです）"
+    hcm "(Keyin, Miuraning dugonasi Ebina Hina... u o'zini odobli ko'rsatsa-da, aslida yigitlar o'rtasidagi munosabatlarga o'ch ekan... Rostini aytsam, qo'rqinchli.)"
 
 # game/scripts/game/OG_N013YUI0.rpy:194
 translate uzbek OG_N013YUI0_6_a1cf6d19:

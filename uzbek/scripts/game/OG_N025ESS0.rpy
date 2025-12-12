@@ -398,7 +398,7 @@ translate uzbek OG_N025ESS0_0_03f88277:
 translate uzbek OG_N025ESS0_0_4919147f:
 
     # voice "audio/log/N025ESS0_ZAI001.ogg"
-    # zai "「んぼぉ、八幡、我とお主は同じロードを歩むように<prompt>運命<upperText>さだめ</prompt>づけられた深き因縁の」"
+    # zai "「んぼぉ、八幡、我とお主は同じロードを歩むように運命さだめづけられた深き因縁の」"
     voice "audio/log/N025ESS0_ZAI001.ogg"
     zai "Nbo, Hachiman, men va sen bir xil yo'ldan yurishga mahkum etilganmiz, taqdirimiz chuqur bog'langan..."
 

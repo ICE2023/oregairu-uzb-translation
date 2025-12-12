@@ -152,9 +152,9 @@ translate uzbek OG_N014ESS0_0_a734374d:
 translate uzbek OG_N014ESS0_0_83062430:
 
     # voice "audio/log/N014ESS0_KOM008.ogg"
-    # kom "「はぁ……ホント、いい<prompt>相手<upperText>ひと</prompt>いないかなぁ」"
+    # kom "「はぁ……ホント、いい相手ひといないかなぁ」"
     voice "audio/log/N014ESS0_KOM008.ogg"
-    kom "Eh... rostdan ham, yaxshi <prompt>odam<upperText>sherik</prompt> yo'qmikin."
+    kom "Eh... rostdan ham, yaxshi odamsherik yo'qmikin."
 
 # game/scripts/game/OG_N014ESS0.rpy:153
 translate uzbek OG_N014ESS0_0_8b3391af:

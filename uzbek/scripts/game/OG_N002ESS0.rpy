@@ -318,9 +318,9 @@ translate uzbek OG_N002ESS09_0507e5f7:
 translate uzbek OG_N002ESS09_e9c409cf:
 
     # voice "audio/log/N002ESS0_KOM013.ogg"
-    # kom "「さてさて、続いては……っと、ここからは<prompt><charCenter>おっきい方の<upperText>••••••</prompt>小町に交代だね！」"
+    # kom "「さてさて、続いては……っと、ここからはおっきい方の••••••小町に交代だね！」"
     voice "audio/log/N002ESS0_KOM013.ogg"
-    kom "Xo'sh, endi navbatdagi... shu yerdan boshlab <prompt><charCenter>kattaroq<upperText>••••••</prompt> Komachi davom ettiradi!"
+    kom "Xo'sh, endi navbatdagi... shu yerdan boshlab kattaroq•••••• Komachi davom ettiradi!"
 
 # game/scripts/game/OG_N002ESS0.rpy:214
 translate uzbek OG_N002ESS09_39a0e296:

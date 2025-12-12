@@ -956,9 +956,9 @@ translate uzbek OG_N099ED30_0_234ce0f0:
 translate uzbek OG_N099ED30_0_963e2db9:
 
     # voice "audio/log/N099ED30_HAY021.ogg"
-    # hay "「……っと、<prompt><charCenter>あっちも<upperText>••••</prompt>無事解決のようだな」"
+    # hay "「……っと、あっちも••••無事解決のようだな」"
     voice "audio/log/N099ED30_HAY021.ogg"
-    hay "...<prompt><charCenter>U tomon<upperText>••••</upperText> ham hal bo'ldi shekilli."
+    hay "...U tomon•••• ham hal bo'ldi shekilli."
 
 # game/scripts/game/OG_N099ED30.rpy:977
 translate uzbek OG_N099ED30_0_03dda5ac:

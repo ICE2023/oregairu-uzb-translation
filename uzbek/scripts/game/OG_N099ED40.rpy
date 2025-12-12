@@ -168,7 +168,7 @@ translate uzbek OG_N099ED40_0_a8c29fb4:
 translate uzbek OG_N099ED40_0_32a00e3f:
 
     # voice "audio/log/N099ED40_HCM008.ogg"
-    # hcm "「いや、遠慮ってんじゃなくて、奢られる<prompt>謂<upperText>いわ</upperText>れがないんで」"
+    # hcm "「いや、遠慮ってんじゃなくて、奢られる謂いわれがないんで」"
     voice "audio/log/N099ED40_HCM008.ogg"
     hcm "「Yo‘q, tortinayotganim yo‘q, shunchaki tekinga yeyishga haqqim yo‘q.」"
 

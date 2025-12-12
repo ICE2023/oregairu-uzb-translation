@@ -141,7 +141,7 @@ translate uzbek OG_D040ESS0_0_a01cd50c:
 # game/scripts/game/OG_D040ESS0.rpy:104
 translate uzbek OG_D040ESS0_0_81e7f836:
 
-    # hcm "（なにを教えろと言うんだ……悪い虫に小町の事は教えん。一撃必中<prompt>見敵殺虫<upperText>サーチアンドデストロイ</prompt>だ）"
+    # hcm "（なにを教えろと言うんだ……悪い虫に小町の事は教えん。一撃必中見敵殺虫サーチアンドデストロイだ）"
     hcm "(Nimani o'rgatarmishman... yomon hasharotga Komachi haqida hech narsa o'rgatmayman. Bir zarbada yo'q qilish, qidirish va yo'q qilish operatsiyasi.)"
 
 # game/scripts/game/OG_D040ESS0.rpy:112

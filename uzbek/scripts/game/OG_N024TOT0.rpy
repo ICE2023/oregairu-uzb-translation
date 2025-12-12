@@ -303,8 +303,8 @@ translate uzbek OG_N024TOT0_2_5b150ee1:
 # game/scripts/game/OG_N024TOT0.rpy:293
 translate uzbek OG_N024TOT0_2_e174cfe4:
 
-    # hcm "（……あれ、なんなのこの<prompt>ＮＴＲ<upperText>ねとられ</upperText>感？　いやいや、ＮＴＲってどっちをどっちに！？）"
-    hcm "(...Iye, bu nima degan <prompt>NTR<upperText>xiyonat</upperText> hissi? Yo'q-yo'q, kim kimga xiyonat qilyapti!?)"
+    # hcm "（……あれ、なんなのこのＮＴＲねとられ感？　いやいや、ＮＴＲってどっちをどっちに！？）"
+    hcm "(...Iye, bu nima degan NTRxiyonat hissi? Yo'q-yo'q, kim kimga xiyonat qilyapti!?)"
 
 # game/scripts/game/OG_N024TOT0.rpy:295
 translate uzbek OG_N024TOT0_2_3ab73d5e:

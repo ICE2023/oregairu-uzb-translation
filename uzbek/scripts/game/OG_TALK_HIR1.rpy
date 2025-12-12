@@ -390,7 +390,7 @@ translate uzbek OG_TALK_HIR1_7_efd8f058:
 translate uzbek OG_TALK_HIR1_7_b223d4fe:
 
     # voice "audio/log/HIR1B2_HIR003.ogg"
-    # hir "「<prompt>他人<upperText>ひと</upperText>と違うことをして生きていくのも大変だが、他人と同じことをして生き残っていくのも、同様に大変なのさ。だから、少しぐらい外れていても、比企谷」"
+    # hir "「他人ひとと違うことをして生きていくのも大変だが、他人と同じことをして生き残っていくのも、同様に大変なのさ。だから、少しぐらい外れていても、比企谷」"
     voice "audio/log/HIR1B2_HIR003.ogg"
     hir "「Boshqalardan ajralib turish qiyin, lekin boshqalar bilan bir xil bo‘lib yashash ham shunday qiyin. Shuning uchun, biroz farq qilsa ham, Hikigaya...」"
 

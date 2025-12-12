@@ -135,8 +135,8 @@ translate uzbek OG_N099ED70_3_a40834bc:
 # game/scripts/game/OG_N099ED70.rpy:112
 translate uzbek OG_N099ED70_3_a7cccc07:
 
-    # narrator "そんな俺と世間様の唯一の接点、それが、<prompt><charCenter>専業主夫<upperText>••••</prompt>という生き方だ。"
-    narrator "Meni jamiyat bilan bog‘lab turadigan yagona narsa – bu <prompt><charCenter>Bekorchi<upperText>••••</prompt> bo‘lishdir."
+    # narrator "そんな俺と世間様の唯一の接点、それが、専業主夫••••という生き方だ。"
+    narrator "Meni jamiyat bilan bog‘lab turadigan yagona narsa – bu Bekorchi•••• bo‘lishdir."
 
 # game/scripts/game/OG_N099ED70.rpy:120
 translate uzbek OG_N099ED70_3_b8d1b5a0:

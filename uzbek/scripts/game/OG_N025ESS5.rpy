@@ -96,7 +96,7 @@ translate uzbek OG_N025ESS5_0_2ca5317b:
 translate uzbek OG_N025ESS5_0_ef581c10:
 
     # voice "audio/log/N025ESS5_ZAI001.ogg"
-    # zai "「ぐう。……しかし八幡と我はこの旅ではもはや共同体。ゆえに<prompt>運命<upperText>さだめ</prompt>と諦めて享受する。仕方ない、皿をよこせ」"
+    # zai "「ぐう。……しかし八幡と我はこの旅ではもはや共同体。ゆえに運命さだめと諦めて享受する。仕方ない、皿をよこせ」"
     voice "audio/log/N025ESS5_ZAI001.ogg"
     zai "「Guh. ...Lekin Hachiman bilan men bu safarda hamroh bo‘lib qoldik. Demak, bu taqdir ekan, ko‘nishga majburman. Iloj yo‘q, likopchani ber.」"
 

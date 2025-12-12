@@ -387,7 +387,7 @@ translate uzbek OG_D030ESS0_0_51bd4cdc:
 # game/scripts/game/OG_D030ESS0.rpy:357
 translate uzbek OG_D030ESS0_0_0f0a03e4:
 
-    # narrator "そしてさまざまな苦労の末に、俺たちはようやく、とあるバーにたどり着いた。その名も『エンジェル・ラダー天使の<prompt>階<upperText>きざはし</prompt>』。"
+    # narrator "そしてさまざまな苦労の末に、俺たちはようやく、とあるバーにたどり着いた。その名も『エンジェル・ラダー天使の階きざはし』。"
     narrator "Turli qiyinchiliklardan so'ng, biz nihoyat bir barga yetib keldik. Uning nomi 'Angel Ladder - Farishta zinapoyasi' edi."
 
 # game/scripts/game/OG_D030ESS0.rpy:359

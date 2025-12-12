@@ -49,8 +49,8 @@ translate uzbek OG_N013YUK0_0_71b68d25:
 # game/scripts/game/OG_N013YUK0.rpy:49
 translate uzbek OG_N013YUK0_1_786be365:
 
-    # hcm "（ってちょっと待て。美少女には違いないが、<prompt>雪ノ下<upperText>ゆきのした</prompt><prompt>雪乃<upperText>ゆきの</prompt>はなによりもまずその性格に難アリじゃねーか。俺に勝るとも劣らずな）"
-    hcm "(Shoshma. Go'zal qiz ekanligiga shubha yo'q, lekin <prompt>Yukinoshita<upperText>Yukinoshita</prompt> <prompt>Yukino<upperText>Yukino</prompt>ning xarakteri juda og'ir-ku. Mendan qolishmaydi.)"
+    # hcm "（ってちょっと待て。美少女には違いないが、雪ノ下ゆきのした雪乃ゆきのはなによりもまずその性格に難アリじゃねーか。俺に勝るとも劣らずな）"
+    hcm "(Shoshma. Go'zal qiz ekanligiga shubha yo'q, lekin Yukinoshita Yukinoning xarakteri juda og'ir-ku. Mendan qolishmaydi.)"
 
 # game/scripts/game/OG_N013YUK0.rpy:51
 translate uzbek OG_N013YUK0_1_027359d7:
@@ -91,8 +91,8 @@ translate uzbek OG_N013YUK0_1_cfb02b5d:
 # game/scripts/game/OG_N013YUK0.rpy:67
 translate uzbek OG_N013YUK0_3_8c0eb0f5:
 
-    # hcm "（ま、<prompt>雪ノ下<upperText>ゆきのした</prompt><prompt>雪乃<upperText>ゆきの</prompt>に関して、今更思い出しておくような情報はないだろ。奉仕部の外で俺が関わることもないし……けどまぁ、こうして顔を見ちまった以上は……）"
-    hcm "(Mayli, <prompt>Yukinoshita<upperText>Yukinoshita</prompt> <prompt>Yukino<upperText>Yukino</prompt> haqida eslab qoladigan boshqa ma'lumot yo'q. Volontyorlik klubidan tashqarida aloqamiz ham bo'lmaydi... lekin endi ko'rib qolganimdan keyin...)"
+    # hcm "（ま、雪ノ下ゆきのした雪乃ゆきのに関して、今更思い出しておくような情報はないだろ。奉仕部の外で俺が関わることもないし……けどまぁ、こうして顔を見ちまった以上は……）"
+    hcm "(Mayli, Yukinoshita Yukino haqida eslab qoladigan boshqa ma'lumot yo'q. Volontyorlik klubidan tashqarida aloqamiz ham bo'lmaydi... lekin endi ko'rib qolganimdan keyin...)"
 
 # game/scripts/game/OG_N013YUK0.rpy:73
 translate uzbek OG_N013YUK0_2_d1fb2e0c:

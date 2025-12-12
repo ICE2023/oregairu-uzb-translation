@@ -268,9 +268,9 @@ translate uzbek OG_A022ESS1_9_6ec5216c:
 translate uzbek OG_A022ESS1_9_23d0fd61:
 
     # voice "audio/log/A022ESS1_HCM016.ogg"
-    # hcm "「そっか。こりゃますます<prompt><charCenter>不得意<upperText>•••</prompt>が加速しそうだな、自業自得とはいえ……まぁいい、お疲れだったな小町。もうすぐメシできっから」"
+    # hcm "「そっか。こりゃますます不得意•••が加速しそうだな、自業自得とはいえ……まぁいい、お疲れだったな小町。もうすぐメシできっから」"
     voice "audio/log/A022ESS1_HCM016.ogg"
-    hcm "「Tushunarli. Bu ketishda <prompt><charCenter>yomon ko‘rishim<upperText>•••</prompt> yanada kuchayadiganga o‘xshaydi, garchi o‘zi aybdor bo‘lsa ham... Mayli, charchading, Komachi. Hozir ovqat pishib qoladi.」"
+    hcm "「Tushunarli. Bu ketishda yomon ko‘rishim••• yanada kuchayadiganga o‘xshaydi, garchi o‘zi aybdor bo‘lsa ham... Mayli, charchading, Komachi. Hozir ovqat pishib qoladi.」"
 
 # game/scripts/game/OG_A022ESS1.rpy:258
 translate uzbek OG_A022ESS1_9_c5eb1f3f:

@@ -59,7 +59,7 @@ translate uzbek OG_N030ESS2_0_12b1f4fb:
 # game/scripts/game/OG_N030ESS2.rpy:56
 translate uzbek OG_N030ESS2_0_275bd549:
 
-    # hcm "（くっ、意識して視線を上へ上へとやらないと、自然と下へ向いてしまう。これが万<prompt>乳<upperText>にゅう</prompt>引力の法則か、さすが<prompt>乳<upperText>にゅう</prompt>トン先生だな！）"
+    # hcm "（くっ、意識して視線を上へ上へとやらないと、自然と下へ向いてしまう。これが万乳にゅう引力の法則か、さすが乳にゅうトン先生だな！）"
     hcm "（Ihh, ataylab ko‘zimni yuqoriga qaratmasam, beixtiyor pastga tushib ketyapti. Bu butun olam tortishish qonunimi? Qoyil Nyuton domla!）"
 
 # game/scripts/game/OG_N030ESS2.rpy:58

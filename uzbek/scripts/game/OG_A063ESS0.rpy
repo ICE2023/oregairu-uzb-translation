@@ -440,9 +440,9 @@ translate uzbek OG_A063ESS0_0_f46a10ed:
 translate uzbek OG_A063ESS0_0_f6a8d2f9:
 
     # voice "audio/log/A063ESS0_YUK023.ogg"
-    # yuk "「それから……<prompt><charCenter>比企谷くん<upperText>•••••</prompt>」"
+    # yuk "「それから……比企谷くん•••••」"
     voice "audio/log/A063ESS0_YUK023.ogg"
-    yuk "「Va... <prompt><charCenter>Hikigaya<upperText>•••••</prompt>.」"
+    yuk "「Va... Hikigaya•••••.」"
 
 # game/scripts/game/OG_A063ESS0.rpy:364
 translate uzbek OG_A063ESS0_0_1bd14f4a:

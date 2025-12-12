@@ -526,9 +526,9 @@ translate uzbek OG_B021ESS1_4_a273e56e:
 translate uzbek OG_B021ESS1_4_4fccaef9:
 
     # voice "audio/log/B021ESS1_HCM018.ogg"
-    # hcm "「なにそのちょっと可愛いフィギュアみたいなの。<prompt>朴念仁<upperText>ぼくねんじん</prompt>じゃねぇのかよ」"
+    # hcm "「なにそのちょっと可愛いフィギュアみたいなの。朴念仁ぼくねんじんじゃねぇのかよ」"
     voice "audio/log/B021ESS1_HCM018.ogg"
-    hcm "「Bu qanaqasi, xuddi chiroyli o‘yinchoqqa o‘xshatib yubording. <prompt>Toshbag‘ir<upperText>bokunenjin</upperText> demoqchimiding?」"
+    hcm "「Bu qanaqasi, xuddi chiroyli o‘yinchoqqa o‘xshatib yubording. Toshbag‘irbokunenjin demoqchimiding?」"
 
 # game/scripts/game/OG_B021ESS1.rpy:539
 translate uzbek OG_B021ESS1_4_ea8ac696:

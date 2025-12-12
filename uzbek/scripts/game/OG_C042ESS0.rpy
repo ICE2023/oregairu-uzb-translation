@@ -528,7 +528,7 @@ translate uzbek OG_C042ESS0_0_7399aa74:
 translate uzbek OG_C042ESS0_0_00e6f6c7:
 
     # voice "audio/log/C042ESS0_HCM021.ogg"
-    # hcm "「……俺にはないし今後も絶対に身につかないと思うが、戸塚はただ、みんなに好かれる<prompt>性質<upperText>たち</prompt>なんじゃねーの？」"
+    # hcm "「……俺にはないし今後も絶対に身につかないと思うが、戸塚はただ、みんなに好かれる性質たちなんじゃねーの？」"
     voice "audio/log/C042ESS0_HCM021.ogg"
     hcm "...Menda yo'q va hech qachon bo'lmaydi ham, lekin Totsuka, sen shunchaki hamma yoqtiradigan tabiatga egasan-ku, shunday emasmi?"
 

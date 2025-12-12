@@ -56,7 +56,7 @@ translate uzbek OG_N001ESS04_86d45b74:
 translate uzbek OG_N001ESS04_ba974095:
 
     # voice "audio/log/N001ESS0_HCM003.ogg"
-    # hcm "労働とはリスクを払い、リターンを得る行為である。<prompt>畢竟<upperText>ひっきょう</prompt>、より少ないリスクで最大のリターンを得ることこそが労働の最大の目的であると言える。"
+    # hcm "労働とはリスクを払い、リターンを得る行為である。畢竟ひっきょう、より少ないリスクで最大のリターンを得ることこそが労働の最大の目的であると言える。"
     voice "audio/log/N001ESS0_HCM003.ogg"
     hcm "Mehnat bu tavakkal qilish va evaziga foyda olishdir. Oxir-oqibat, kamroq xavf bilan ko'proq foyda olish mehnatning asosiy maqsadi deyish mumkin."
 
@@ -104,7 +104,7 @@ translate uzbek OG_N001ESS04_3e078768:
 translate uzbek OG_N001ESS04_4d166249:
 
     # voice "audio/log/N001ESS0_HCM009.ogg"
-    # hcm "そんな俺と世間様の唯一の接点、それが、<prompt><charCenter>専業主夫<upperText>••••</prompt>という生き方だ。"
+    # hcm "そんな俺と世間様の唯一の接点、それが、専業主夫••••という生き方だ。"
     voice "audio/log/N001ESS0_HCM009.ogg"
     hcm "Men va jamiyat o'rtasidagi yagona bog'liqlik, bu — Bekorchi bo'lib yashashdir."
 

@@ -200,9 +200,9 @@ translate uzbek OG_N099ED42_0_74f7f1b6:
 translate uzbek OG_N099ED42_0_cef14dfa:
 
     # voice "audio/log/N099ED42_HIR012.ogg"
-    # hir "「……働く、<prompt><charCenter>美しい<upperText>•••</prompt>女性だと？」"
+    # hir "「……働く、美しい•••女性だと？」"
     voice "audio/log/N099ED42_HIR012.ogg"
-    hir "「...Ishlaydigan, <prompt><charCenter>go‘zal<upperText>•••</prompt> ayollar dedingmi?」"
+    hir "「...Ishlaydigan, go‘zal••• ayollar dedingmi?」"
 
 # game/scripts/game/OG_N099ED42.rpy:172
 translate uzbek OG_N099ED42_0_84a2bda3:

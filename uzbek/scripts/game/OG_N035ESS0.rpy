@@ -12,9 +12,9 @@ translate uzbek OG_N035ESS0_0_56138c50:
 translate uzbek OG_N035ESS0_0_813da92a:
 
     # voice "audio/log/N035ESS0_TOT000.ogg"
-    # tot "「この森の奥に<prompt>祠<upperText>ほこら</upperText>があります。そこで班ごとに１枚ずつ、お札を取ってここに戻ってきて下さい」"
+    # tot "「この森の奥に祠ほこらがあります。そこで班ごとに１枚ずつ、お札を取ってここに戻ってきて下さい」"
     voice "audio/log/N035ESS0_TOT000.ogg"
-    tot "「O‘rmon ichkarisida <prompt>ibodatxona<upperText>ibodatxona</upperText> bor. Har bir guruh u yerdan bittadan tumor olib qaytishi kerak.」"
+    tot "「O‘rmon ichkarisida ibodatxonaibodatxona bor. Har bir guruh u yerdan bittadan tumor olib qaytishi kerak.」"
 
 # game/scripts/game/OG_N035ESS0.rpy:34
 translate uzbek OG_N035ESS0_0_7946a84f:

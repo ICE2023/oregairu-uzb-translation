@@ -102,9 +102,9 @@ translate uzbek OG_A011ESS0_0_8eed76e1:
 translate uzbek OG_A011ESS0_0_235e690a:
 
     # voice "audio/log/A011ESS0_YUK005.ogg"
-    # yuk "「そう、サブレも<prompt><charCenter>慎重に<upperText>•••</prompt>なっているのね」"
+    # yuk "「そう、サブレも慎重に•••なっているのね」"
     voice "audio/log/A011ESS0_YUK005.ogg"
-    yuk "«Demak, Sable ham <prompt><charCenter>ehtiyotkor<upperText>•••</prompt> bo'lib qolibdi-da.»"
+    yuk "«Demak, Sable ham ehtiyotkor••• bo'lib qolibdi-da.»"
 
 # game/scripts/game/OG_A011ESS0.rpy:91
 translate uzbek OG_A011ESS0_0_1c6cf467:

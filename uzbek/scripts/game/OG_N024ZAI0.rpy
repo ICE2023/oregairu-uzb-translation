@@ -156,7 +156,7 @@ translate uzbek OG_N024ZAI0_0_b6f8f8f9:
 translate uzbek OG_N024ZAI0_0_9e830f26:
 
     # voice "audio/log/N024ZAI0_HCM007.ogg"
-    # hcm "「お前が抱えてる<prompt>ノートＰＣ<upperText>ソレ</prompt>は、ただの飾りか？　さっさと開いて、テキストエディタでも立ち上げとけよ」"
+    # hcm "「お前が抱えてるノートＰＣソレは、ただの飾りか？　さっさと開いて、テキストエディタでも立ち上げとけよ」"
     voice "audio/log/N024ZAI0_HCM007.ogg"
     hcm "Qo'ltig'ingdagi noutbuking shunchaki bezakmi? Tezroq ochib, matn muharririni ishga tushirib qo'y."
 

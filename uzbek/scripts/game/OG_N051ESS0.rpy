@@ -306,9 +306,9 @@ translate uzbek OG_N051ESS0_0_027b751c:
 translate uzbek OG_N051ESS0_0_88e0a6cd:
 
     # voice "audio/log/N051ESS0_YUK005.ogg"
-    # yuk "「そういえばそんなことを言っていたわね……そう、今<prompt><charCenter>小町さんの<upperText>•••••</prompt>おうちに」"
+    # yuk "「そういえばそんなことを言っていたわね……そう、今小町さんの•••••おうちに」"
     voice "audio/log/N051ESS0_YUK005.ogg"
-    yuk "Aytgancha, shunday degandi... Ha, demak <prompt><charCenter>Komachi-sanning<upperText>•••••</upperText> uyida ekan-da."
+    yuk "Aytgancha, shunday degandi... Ha, demak Komachi-sanning••••• uyida ekan-da."
 
 # game/scripts/game/OG_N051ESS0.rpy:304
 translate uzbek OG_N051ESS0_0_4b53d402:
@@ -434,9 +434,9 @@ translate uzbek OG_N051ESS0_0_2dd5c951:
 translate uzbek OG_N051ESS0_0_c63045a8:
 
     # voice "audio/log/N051ESS0_YUK012.ogg"
-    # yuk "「えっ？　……ああ、ええ、そう、会場には<prompt><charCenter>行った<upperText>•••</prompt>わ。小町さんにも会ったわね」"
+    # yuk "「えっ？　……ああ、ええ、そう、会場には行った•••わ。小町さんにも会ったわね」"
     voice "audio/log/N051ESS0_YUK012.ogg"
-    yuk "E? ...A, ha, to'g'ri, ko'rgazmaga <prompt><charCenter>borgan<upperText>•••</upperText> edim. Komachi-san bilan ham ko'rishgandik."
+    yuk "E? ...A, ha, to'g'ri, ko'rgazmaga borgan••• edim. Komachi-san bilan ham ko'rishgandik."
 
 # game/scripts/game/OG_N051ESS0.rpy:434
 translate uzbek OG_N051ESS0_0_4262f795:

@@ -212,9 +212,9 @@ translate uzbek OG_C012ZAI0_0_f892c1eb:
 translate uzbek OG_C012ZAI0_0_d4830e8a:
 
     # voice "audio/log/C012ZAI0_ZAI005.ogg"
-    # zai "「戸塚氏！　我はお主を見損なったぞ！　八幡の家に羞恥なく上がりこむなぞ、<prompt>葉隠<upperText>はがくれ</upperText>の心得に反する恥ずべき行為っ！」"
+    # zai "「戸塚氏！　我はお主を見損なったぞ！　八幡の家に羞恥なく上がりこむなぞ、葉隠はがくれの心得に反する恥ずべき行為っ！」"
     voice "audio/log/C012ZAI0_ZAI005.ogg"
-    zai "「Totsuka janoblari! Sizdan buni kutmagan edim! Hachimanning uyiga uyalmasdan kirib borishingiz, <prompt>Hagakure<upperText>Hagakure</upperText> qoidalariga zid bo‘lgan sharmandali harakatdir!」"
+    zai "「Totsuka janoblari! Sizdan buni kutmagan edim! Hachimanning uyiga uyalmasdan kirib borishingiz, HagakureHagakure qoidalariga zid bo‘lgan sharmandali harakatdir!」"
 
 # game/scripts/game/OG_C012ZAI0.rpy:185
 translate uzbek OG_C012ZAI0_0_66ebfa85:

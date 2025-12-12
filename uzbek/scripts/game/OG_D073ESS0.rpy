@@ -162,7 +162,7 @@ translate uzbek OG_D073ESS0_0_21733162:
 translate uzbek OG_D073ESS0_0_e7e7dd02:
 
     # voice "audio/log/D073ESS0_HCM009.ogg"
-    # hcm "「他？　そんなものがどこにいる……俺の目には小町と<prompt>大虫<upperText>たむし</prompt>しか見えんが」"
+    # hcm "「他？　そんなものがどこにいる……俺の目には小町と大虫たむししか見えんが」"
     voice "audio/log/D073ESS0_HCM009.ogg"
     hcm "Boshqalar? Qani ular... mening ko'zimga Komachi va Tamushidan (Taishi) boshqa hech kim ko'rinmayapti."
 

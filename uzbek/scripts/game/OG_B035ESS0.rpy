@@ -60,7 +60,7 @@ translate uzbek OG_B035ESS0_0_05fa2074:
     # voice "audio/log/B035ESS0_HCM002.ogg"
     # hcm "「青春っぽいって？　『あはは、こっちだよほーらつかまえてごらんなさ〜い{color=#FFC0CB}♥{/color}』……とか？」"
     voice "audio/log/B035ESS0_HCM002.ogg"
-    hcm "「Yoshlarga xos deganda... “A-xaxa, bu yoqqa yuring, qani, meni tutib oling~chi <prompt>{color=#FFC0CB}♥{/color}</prompt>”... demoqchimisan?」"
+    hcm "「Yoshlarga xos deganda... “A-xaxa, bu yoqqa yuring, qani, meni tutib oling~chi {color=#FFC0CB}♥{/color}”... demoqchimisan?」"
 
 # game/scripts/game/OG_B035ESS0.rpy:74
 translate uzbek OG_B035ESS0_0_8ed45379:
@@ -68,7 +68,7 @@ translate uzbek OG_B035ESS0_0_8ed45379:
     # voice "audio/log/B035ESS0_YUI004.ogg"
     # yui "「『待てぇ、こいつぅ〜{color=#FFC0CB}♥{/color}　悪い子にはおしおきだゾー{color=#FFC0CB}♥{/color}』……みたいな？」"
     voice "audio/log/B035ESS0_YUI004.ogg"
-    yui "「“To‘xta, yaramas~ <prompt>{color=#FFC0CB}♥{/color}</prompt> Yomon bolalarni jazolayman <prompt>{color=#FFC0CB}♥{/color}</prompt>”... shunga o‘xshashmi?」"
+    yui "「“To‘xta, yaramas~ {color=#FFC0CB}♥{/color} Yomon bolalarni jazolayman {color=#FFC0CB}♥{/color}”... shunga o‘xshashmi?」"
 
 # game/scripts/game/OG_B035ESS0.rpy:78
 translate uzbek OG_B035ESS0_0_a7c4369f_1:

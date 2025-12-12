@@ -338,9 +338,9 @@ translate uzbek OG_N072ESS1_0_e4e1f042:
 translate uzbek OG_N072ESS1_0_6c5d1b9e:
 
     # voice "audio/log/N072ESS1_HCM014.ogg"
-    # hcm "「じゃあ、<prompt><charCenter>婿ぐ<upperText>••</prompt>まで」"
+    # hcm "「じゃあ、婿ぐ••まで」"
     voice "audio/log/N072ESS1_HCM014.ogg"
-    hcm "「Unda, <prompt><charCenter>kuyov bo‘lgunimcha<upperText>••</prompt>」"
+    hcm "「Unda, kuyov bo‘lgunimcha••」"
 
 # game/scripts/game/OG_N072ESS1.rpy:297
 translate uzbek OG_N072ESS1_1_a80ce938:

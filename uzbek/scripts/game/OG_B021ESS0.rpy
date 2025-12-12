@@ -271,8 +271,8 @@ translate uzbek OG_B021ESS0_0_276a14d4:
 # game/scripts/game/OG_B021ESS0.rpy:232
 translate uzbek OG_B021ESS0_0_4d0a3adc:
 
-    # hcm "（可愛いは正義という観点から、俺のＩ<prompt>{color=#FFC0CB}♥{/color}<upperText>ラブ</prompt>千葉Ｔシャツでいいんじゃないの？　千葉ってなんか可愛いし）"
-    hcm "（Chiroyli narsa – adolat degan nuqtai nazardan, mening I <prompt>{color=#FFC0CB}♥{/color}<upperText>Love</upperText> Chiba futbolkam bo‘lavermaydimi? Chiba ham o‘ziga yarasha chiroyli-ku.）"
+    # hcm "（可愛いは正義という観点から、俺のＩ{color=#FFC0CB}♥{/color}ラブ千葉Ｔシャツでいいんじゃないの？　千葉ってなんか可愛いし）"
+    hcm "（Chiroyli narsa – adolat degan nuqtai nazardan, mening I {color=#FFC0CB}♥{/color}Love Chiba futbolkam bo‘lavermaydimi? Chiba ham o‘ziga yarasha chiroyli-ku.）"
 
 # game/scripts/game/OG_B021ESS0.rpy:240
 translate uzbek OG_B021ESS0_0_e33ae90e:
@@ -390,9 +390,9 @@ translate uzbek OG_B021ESS0_0_fe437786:
 translate uzbek OG_B021ESS0_0_f212a3d7:
 
     # voice "audio/log/B021ESS0_KOM022.ogg"
-    # kom "「ごめんなさい戸塚さん。お兄ちゃん、これから<prompt><charCenter>結衣さんとふたりで<upperText>•••••••••</prompt>花火大会なんです。それでオシャレしたいって言って、小町が買い物につきあってるんです」"
+    # kom "「ごめんなさい戸塚さん。お兄ちゃん、これから結衣さんとふたりで•••••••••花火大会なんです。それでオシャレしたいって言って、小町が買い物につきあってるんです」"
     voice "audio/log/B021ESS0_KOM022.ogg"
-    kom "「Uzr, Totsuka. Akam hozir <prompt><charCenter>Yui opa bilan yolg‘iz<upperText>•••••••••</upperText> mushakbozlikka boradi. O‘ziga oro bermoqchi ekan, shunga Komachi yordam beryapti.」"
+    kom "「Uzr, Totsuka. Akam hozir Yui opa bilan yolg‘iz••••••••• mushakbozlikka boradi. O‘ziga oro bermoqchi ekan, shunga Komachi yordam beryapti.」"
 
 # game/scripts/game/OG_B021ESS0.rpy:363
 translate uzbek OG_B021ESS0_0_4fe6d6b2:

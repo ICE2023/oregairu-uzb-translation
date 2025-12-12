@@ -236,9 +236,9 @@ translate uzbek OG_N023ESS0_0_1b9c4daf:
 translate uzbek OG_N023ESS0_0_e850c39e:
 
     # voice "audio/log/N023ESS0_EBI001.ogg"
-    # ebi "「わたしは葉山君と戸部君がキャンプすると聞いて<prompt>ｈｓｈｓ<upperText>はすはす</prompt>」"
+    # ebi "「わたしは葉山君と戸部君がキャンプすると聞いてｈｓｈｓはすはす」"
     voice "audio/log/N023ESS0_EBI001.ogg"
-    ebi "Men esa Hayama-kun va Tobe-kun lagerga borishini eshitib... <prompt>hshs<upperText>nafas-nafas</prompt>"
+    ebi "Men esa Hayama-kun va Tobe-kun lagerga borishini eshitib... hshsnafas-nafas"
 
 # game/scripts/game/OG_N023ESS0.rpy:242
 translate uzbek OG_N023ESS0_0_cce859a3:
@@ -768,7 +768,7 @@ translate uzbek OG_N023ESS0_2_7bd17df7:
 translate uzbek OG_N023ESS0_2_68c70124:
 
     # voice "audio/log/N023ESS0_HCM021.ogg"
-    # hcm "「お前、こんなとこまでノート<prompt>ＰＣ<upperText>パソコン</prompt>持って来たのかよ」"
+    # hcm "「お前、こんなとこまでノートＰＣパソコン持って来たのかよ」"
     voice "audio/log/N023ESS0_HCM021.ogg"
     hcm "Sen, bu yergacha noutbuk ko'tarib keldingmi?"
 

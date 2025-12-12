@@ -156,7 +156,7 @@ translate uzbek OG_A052ESS0_0_c5d5b62d:
 translate uzbek OG_A052ESS0_0_ee39ad49:
 
     # voice "audio/log/A052ESS0_YUK006.ogg"
-    # yuk "「たいへん遺憾なのだけれどそこだけは同意見だわ。結局は個々人の好みに<prompt>収斂<upperText>しゅうれん</prompt>されていくものじゃないかしら」"
+    # yuk "「たいへん遺憾なのだけれどそこだけは同意見だわ。結局は個々人の好みに収斂しゅうれんされていくものじゃないかしら」"
     voice "audio/log/A052ESS0_YUK006.ogg"
     yuk "「Juda afsusdaman-u, lekin bu borada fikrimiz bir joydan chiqdi. Oxir-oqibat, hamma narsa shaxsiy didga borib taqaladi.」"
 

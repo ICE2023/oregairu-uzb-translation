@@ -131,7 +131,7 @@ translate uzbek OG_D061ESS2_0_514bf884:
 # game/scripts/game/OG_D061ESS2.rpy:162
 translate uzbek OG_D061ESS2_0_b57dd77d:
 
-    # hcm "（いや、あれはたぶん幻覚！　暑さで俺の頭がおかしいだけ！　マジか、それやばいな、頭がっつーか、戸塚求めすぎ<prompt>症候群<upperText>シンドローム</prompt>が）"
+    # hcm "（いや、あれはたぶん幻覚！　暑さで俺の頭がおかしいだけ！　マジか、それやばいな、頭がっつーか、戸塚求めすぎ症候群シンドロームが）"
     hcm "(Yo'q, bu gallyutsinatsiya bo'lsa kerak! Issiqdan boshim aylanib qoldi shekilli! Nahotki, bu yomon-ku, boshim emas, Totsuka yetishmovchiligi sindromi qiynayapti meni.)"
 
 # game/scripts/game/OG_D061ESS2.rpy:164

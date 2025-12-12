@@ -214,7 +214,7 @@ translate uzbek OG_N027ESS0_1_6a57ce68:
 translate uzbek OG_N027ESS0_1_6c3ec805:
 
     # voice "audio/log/N027ESS0_HCM005.ogg"
-    # hcm "「……検索した真言を順番に声に出して読むのはやめろ。高原の空気が<prompt>澱<upperText>よど</upperText>む」"
+    # hcm "「……検索した真言を順番に声に出して読むのはやめろ。高原の空気が澱よどむ」"
     voice "audio/log/N027ESS0_HCM005.ogg"
     hcm "「...Qidirgan afsunlaringni ovoz chiqarib o‘qima. Tog‘ havosi buzilib ketdi.」"
 

@@ -374,7 +374,7 @@ translate uzbek OG_N099ED44_0_00eeb40b:
 translate uzbek OG_N099ED44_0_0e2de432:
 
     # voice "audio/log/N099ED44_HIR011.ogg"
-    # hir "「さて、今日のラーメン屋は<prompt>鶏白湯<upperText>とりぱいたん</upperText>スープがおススメの新進気鋭の名店だ！」"
+    # hir "「さて、今日のラーメン屋は鶏白湯とりぱいたんスープがおススメの新進気鋭の名店だ！」"
     voice "audio/log/N099ED44_HIR011.ogg"
     hir "「Xo‘sh, bugungi ramen do‘koni – tovuq sho‘rvali ramenlari bilan mashhur bo‘layotgan yangi joy!」"
 

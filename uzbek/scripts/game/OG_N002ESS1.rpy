@@ -136,9 +136,9 @@ translate uzbek OG_N002ESS11_4e73338e:
 translate uzbek OG_N002ESS11_e24fc2f1:
 
     # voice "audio/log/N002ESS1_KOM010.ogg"
-    # kom "「ときには<prompt>『…………』<upperText>ちんもく</prompt>のカードを選ぶことが、状況を変えるカギになるかも。そうそう、この沈黙のカードは何回選んでも復活するから、覚えておいてね」"
+    # kom "「ときには『…………』ちんもくのカードを選ぶことが、状況を変えるカギになるかも。そうそう、この沈黙のカードは何回選んでも復活するから、覚えておいてね」"
     voice "audio/log/N002ESS1_KOM010.ogg"
-    kom "Ba'zan <prompt>'............'<upperText>sukunat</prompt> kartasini tanlash vaziyatni o'zgartirish kaliti bo'lishi mumkin. Aytgancha, bu sukunat kartasi necha marta tanlansa ham qayta paydo bo'laveradi, eslab qol."
+    kom "Ba'zan '............'sukunat kartasini tanlash vaziyatni o'zgartirish kaliti bo'lishi mumkin. Aytgancha, bu sukunat kartasi necha marta tanlansa ham qayta paydo bo'laveradi, eslab qol."
 
 # game/scripts/game/OG_N002ESS1.rpy:91
 translate uzbek OG_N002ESS11_19090662:

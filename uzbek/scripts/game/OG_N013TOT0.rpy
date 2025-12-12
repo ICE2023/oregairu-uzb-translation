@@ -91,8 +91,8 @@ translate uzbek OG_N013TOT0_0_7879a811:
 # game/scripts/game/OG_N013TOT0.rpy:85
 translate uzbek OG_N013TOT0_1_b8f62e84:
 
-    # hcm "（<prompt>戸塚<upperText>とつか</prompt><prompt>彩加<upperText>さいか</prompt>。総武高校２年Ｆ組のクラスメイト。テニス部所属。５月９日生まれ。血液型Ａ型。種族は天使。俺にだけ羽根が見える。それからそれから……）"
-    hcm "(<prompt>Totsuka<upperText>Totsuka</prompt> <prompt>Saika<upperText>Saika</prompt>. Sobu o'rta maktabi 2-F sinf o'quvchisi. Tennis klubi a'zosi. 9-mayda tug'ilgan. Qon guruhi A. Irqi farishta. Qanotlari faqat menga ko'rinadi. Keyin, keyin...)"
+    # hcm "（戸塚とつか彩加さいか。総武高校２年Ｆ組のクラスメイト。テニス部所属。５月９日生まれ。血液型Ａ型。種族は天使。俺にだけ羽根が見える。それからそれから……）"
+    hcm "(Totsuka Saika. Sobu o'rta maktabi 2-F sinf o'quvchisi. Tennis klubi a'zosi. 9-mayda tug'ilgan. Qon guruhi A. Irqi farishta. Qanotlari faqat menga ko'rinadi. Keyin, keyin...)"
 
 # game/scripts/game/OG_N013TOT0.rpy:87
 translate uzbek OG_N013TOT0_1_8f50e846:
